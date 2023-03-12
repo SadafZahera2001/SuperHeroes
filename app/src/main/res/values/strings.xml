@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Iron Man</string>
+    <string name="description1">An Armor that gives him superhuman strength and durability, flight, and an array of weapons</string>
+    <string name="hero2">Black Panther</string>
+    <string name="description2">Incredibly Intelligent and Wields enhanced strength and senses</string>
+    <string name="hero3">"Thor "</string>
+    <string name="description3">The Mightiest Warrior in the whole Cosmos</string>
+    <string name="hero4">Spider Man</string>
+    <string name="description4">Find him swinging around your neighbour hood</string>
+    <string name="hero5">Groot</string>
+    <string name="description5">He\'s cute, but not just aesthetically. Sure, he\'s small and sports giant, curious eyes, but don\'t let your self deceived</string>
+    <string name="hero6">Wolverine</string>
+    <string name="description6">Mutant who possesses enhanced Physical capabilities and a powerful Regenerative ability</string>
+    <string name="hero7">Rocket Racoon</string>
+    <string name="description7">The Jetpack Hero and member of Guardian of Galaxy</string>
+    <string name="hero8">Ghost Rider</string>
+    <string name="description8">King of Hell on his Burning Bike</string>
+    <string name="hero9">Bat Man</string>
+    <string name="description9">Billionaire and Ruthless Vigilante who frequently killed or maimed criminals</string>
+
+
+
+
+</resources>
